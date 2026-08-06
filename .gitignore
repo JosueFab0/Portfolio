@@ -1,10 +1,12 @@
 # Dependencias
 node_modules/
-.claude
 
-# Archivos generados por Next.js
+# Next.js
 .next/
 out/
+
+# Claude Code
+.claude/
 
 # Variables de entorno
 .env
