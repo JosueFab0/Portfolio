@@ -1,5 +1,6 @@
 # Dependencias
 node_modules/
+.claude
 
 # Archivos generados por Next.js
 .next/
